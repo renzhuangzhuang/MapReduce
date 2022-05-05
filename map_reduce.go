@@ -9,12 +9,13 @@ import (
 	"strconv"
 	"strings"
 	"sync"
+	"time"
 )
 
 var lock sync.Mutex
 
 func main() {
-
+	start := time.Now()
 	txt_name := "C:\\Users\\njupttest\\Desktop\\1.txt"
 	inputFile, err := os.Open(txt_name)
 	if err != nil {
@@ -43,6 +44,9 @@ func main() {
 		}
 
 	}
+	cost := time.Since(start)
+	fmt.Printf("cost_time = [%s]", cost)
+
 	result, _ := os.Create("result.txt")
 	defer result.Close()
 	// 参考华子的写法

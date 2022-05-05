@@ -5476,6 +5476,7 @@ Exploding:96
 Extraordinary:96
 Eykhen,:192
 Eylau.:96
+F:1
 FAIR:288
 FAMOUS:384
 FANCY:96
@@ -5652,7 +5653,7 @@ Fire:288
 Fires:192
 Firhoff:192
 Firme,:96
-Firme;:96
+Firme;:95
 Firmly:192
 First:2016
 First!:96
@@ -26044,6 +26045,7 @@ d'ordre...":96
 d'une:96
 d'ye:384
 d'you:384
+d,:1
 dagger:1344
 dagger,:960
 dagger,":96
@@ -30050,6 +30052,7 @@ eminent:192
 emissary:192
 emitted:384
 emitting:288
+emoirs;:1
 emotion:1824
 emotion,:480
 emotion.:672
@@ -40324,7 +40327,7 @@ hypocrite,:96
 hypothesis:96
 hypothetical:96
 hysterical:96
-i:96
+i:97
 i'faith:96
 i,:96
 iS:96
@@ -40875,7 +40878,7 @@ impurity:96
 imputation:96
 impute:96
 imputed:96
-in:1323168
+in:1323167
 in!:672
 in!":480
 in"The:96
@@ -42306,6 +42309,7 @@ irascibility.:96
 irate:96
 irksome:96
 irksome,:96
+irme;:1
 iron:1344
 iron,:96
 iron,":96
@@ -43744,7 +43748,7 @@ kopeks,:96
 kvas,:96
 kvass:96
 kvass,:96
-l:96
+l:97
 l'Angleterre:96
 l'Empereur!:480
 l'Empereur!":864
@@ -45850,7 +45854,7 @@ lynxesthat:96
 lyre:96
 lyric,:96
 lyrical:96
-m:96
+m:97
 m':96
 m'amene:96
 m'etre:96
@@ -47118,7 +47122,7 @@ meme:96
 memento:96
 memoirs:192
 memoirs,:192
-memoirs;:96
+memoirs;:95
 memorable:960
 memorandum:768
 memorandum,:96
@@ -49073,7 +49077,7 @@ mywill;:96
 mywoes,:96
 myworthy:384
 myyouth:96
-n:96
+n:97
 n'a:96
 n'ai:96
 n'en:96
@@ -59703,12 +59707,13 @@ sages:384
 sages.:96
 sageto:96
 sagittarius;:96
+sai:1
 said:425184
 said!":288
 said):96
 said),:96
 said),hunger:96
-said,:52512
+said,:52511
 said,"Before:96
 said,"Either:96
 said,"From:96
@@ -75926,6 +75931,7 @@ wight!":96
 wight,":96
 wight.:192
 wigless,:96
+wil:1
 wild:2400
 wild,:96
 wild-fig:96
@@ -75947,7 +75953,7 @@ wilds.":96
 wildsand:96
 wiles:384
 wiles,:96
-will:211584
+will:211583
 will!:288
 will!":288
 will):96
